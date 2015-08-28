@@ -1,2 +1,25 @@
 dfsdfsf
+<<<<<<< HEAD
 gggg
+=======
+sdfdsf
+
+4조짱 -용문!!
+음오아예 = 일혜
+승모!!!
+hjkhjk
+
+<head>
+	<body>
+		<ul></ul>
+	</body>
+</head>
+<<<<<<< HEAD
+
+
+새로운 수정사항 
+=======
+\
+수정합니다~
+>>>>>>> d3ae33502f773c523a500ce758e21c52316a3b3d
+>>>>>>> f557e7a7161e43cceb33bdb622ede45f55fd4b7d
